@@ -170,7 +170,7 @@ def login():
             else:
                 print("Account not found.")
         elif choice == '3':
-            print("Thank you")
+            print("Thank you for using the banking app😊")
             break
         else:
             print("Invalid choice.")
