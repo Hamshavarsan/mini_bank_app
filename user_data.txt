@@ -1,0 +1,6 @@
+Account Number: 1001	Name: hamsan	Email: hamsan@gmail.com	Phone: 777	Balance: 11000.0	Password: hamsan123	Transactions:	Transactions:	
+Account Number: 1002	Name: varsan	Email: va@gmail.com	Phone: 7899	Balance: 11000.0	Password: varsan123	Transactions:	Transactions:	
+Account Number: 1003	Name: raj	Email: raj@gmail.com	Phone: 789	Balance: 6600.0	Password: raj123	Transactions:	Transactions:	
+Account Number: 1004	Name: ravi	Email: ravi@gmail.com	Phone: 776	Balance: 68889.0	Password: ravi123	Transactions:	Transactions:	
+Account Number: 1005	Name: kiru	Email: kiru@gmail.com	Phone: 7577	Balance: 188890.0	Password: kiru123	Transactions:	Transactions:	
+Account Number: 1006	Name: lathu	Email: lathu@gmail.com	Phone: 7547	Balance: 100000.0	Password: lathu123	Transactions:	[2025-05-12 12:28:11] Initial deposit: 100000.00	
