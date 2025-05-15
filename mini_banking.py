@@ -145,19 +145,11 @@ def admin_menu():
     while True:
         print("\n--- Admin Menu ---")
         print("1. Create Account")
-        print("2. View All Accounts")
-        print("3. Logout")
+        print("2. Logout")
         choice = input("Choose option (1-4): ").strip()
         if choice == '1':
             create_account()
         elif choice == '2':
-            try:
-                with open("user_data.txt", "r") as file:
-                    print("\n--- All Account Data ---")
-                    print(file.read())
-            except FileNotFoundError:
-                print("No account data found.")
-        elif choice == '3':
             break
         else:
             print("Invalid choice.")
